@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u3ZCY/jQ9vk1DqU9CP1jctfMMwwySjVdyPAbgFOUPiI=",
+  "Source": "loadtestapi",
+  "BasePath": "_content/loadtestapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
